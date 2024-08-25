@@ -1,7 +1,7 @@
 {
     "modifications": [
         {
-            "name": "SA",
+            "name": "Extended Inventory",
             "description": "This allows the player to place inventory items outside the case and equip weapons(you will be able to keep the items out of the case and use like a new inventory)",
             "changes": [
                 {
